@@ -1,2 +1,3 @@
-# haskell-trial
-Getting familiar with Haskell
+# libi
+
+doing haskell
